@@ -1,10 +1,12 @@
-# html-fund-me-cu
 
-*[⭐️ (2:37:02) | Lesson 8: HTML Fund Me](https://www.youtube.com/watch?v=sas02qSFZ74&t=9422s)*
+
+# fundme-fe
+
+*Mirrored from Patrick Collins' Foundry Fundamentals [course materials](https://github.com/Cyfrin/html-fund-me-cu)*
 
 This is a minimalistic example what you can find in the [metamask docs](https://docs.metamask.io/guide/create-dapp.html#basic-action-part-1).
 
-- [html-fund-me-cu](#html-fund-me-cu)
+- [fundme-fe](#fundme-fe)
 - [Requirements](#requirements)
     - [Optional Gitpod](#optional-gitpod)
 - [Quickstart](#quickstart)
@@ -25,15 +27,15 @@ This is a minimalistic example what you can find in the [metamask docs](https://
 
 If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/html-fund-me-cu)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/fundme-fe)
 
 # Quickstart 
 
 1. Clone the repo
 
 ```
-git clone https://github.com/Cyfrin/html-fund-me-cu
-cd html-fund-me-cu
+git clone https://github.com/Cyfrin/fundme-fe
+cd fundme-fe
 ```
 
 2. Run the `index.html` file
